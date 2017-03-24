@@ -30,12 +30,12 @@ significant skewness.
 
 Formally,
 
-![Skewness](/images/chapter-3/skewness.png =100x20 "Skewness Expression")
+![Skewness](/images/chapter-3/skewness.png "Skewness Expression")
 
 Replacing the data with log, square root or inverse may help reduce the skew. A
 more standard approach is to perform the Box-Cox transformation as shown below:
 
-![Box-Cox Transform](/images/chapter-3/box_cox.png =100x20 "Box-Cox transformation")
+![Box-Cox Transform](/images/chapter-3/box_cox.png "Box-Cox transformation")
 
 Maximum likelihood estimation can be utilized for tuning the transform order
 independently for each predictor data **that contain value greater than zero**.
@@ -46,7 +46,7 @@ independently for each predictor data **that contain value greater than zero**.
 
 If a model is sensitive to outliers, one approach is the *spatial sign*.
 
-![Spatial Sign](/images/chapter-3/spatial_sign.png =100x20 "Spatial Sign")
+![Spatial Sign](/images/chapter-3/spatial_sign.png "Spatial Sign")
 
 - Transformation happens on the entire group, not at variable level.
 
