@@ -6,4 +6,4 @@ This book was recommended in this fantastic [Insight Data Science](http://insigh
 
 In this repo, I capture the key points discussed in a few of the chapters that I found to be particularly useful.
 
-$\frac{\sum{(x_i - \bar{x})}^3}{(n-1)v^1.5}$
+
