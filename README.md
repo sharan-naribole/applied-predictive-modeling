@@ -5,3 +5,5 @@ My notes from [Applied Predictive Modeling](http://appliedpredictivemodeling.com
 This book was recommended in this fantastic [Insight Data Science](http://insightdatascience.com/) blog titled ["Preparing for the Transition to Data Science"](https://blog.insightdatascience.com/preparing-for-the-transition-to-data-science-e9194c90b42c#.mtk8tbarz).
 
 In this repo, I capture the key points discussed in a few of the chapters that I found to be particularly useful.
+
+$\frac{\sum{(x_i - \bar{x})}^3}{(n-1)v^1.5}$
