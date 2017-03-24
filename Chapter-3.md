@@ -126,3 +126,8 @@ following approach:
 2. For each predictor, compute the distance to each class centroid.
 
 3. Add these new features to the model.
+
+## Binning Predictors
+
+**AVOID** as there is loss of precision that might lead to significant
+performance loss.
